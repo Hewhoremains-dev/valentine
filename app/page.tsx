@@ -90,7 +90,7 @@ export default function ValentinePage() {
             Je savais que tu dirais oui ! 🥰
           </h1>
           <p className="text-gray-700 text-lg leading-relaxed mb-6">
-            Ma douce Reine, tu illumines chaque jour de ma vie. 
+            Ma douce myrsha, tu illumines chaque jour de ma vie. 
             Avec toi, chaque moment est magique, chaque sourire est précieux. 
             Tu es mon cœur, mon âme, mon tout. 
             Je t'aime plus que les mots ne pourront jamais l'exprimer. 💖
@@ -151,7 +151,7 @@ export default function ValentinePage() {
 
         {/* Texte */}
         <h2 className="text-xl font-bold text-center mb-8 text-gray-800">
-          Reine veux tu être ma valentine ? 🧸
+         myrsha veux tu être ma valentine ? 🧸
         </h2>
 
         {/* Boutons */}
